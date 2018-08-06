@@ -1,0 +1,12 @@
+15:58:46.685 INFO [GridLauncherV3.launch] - Selenium build info: version: '3.14.0', revision: 'aacccce0'
+15:58:46.686 INFO [GridLauncherV3$1.launch] - Launching a standalone Selenium Server on port 4444
+2018-08-06 15:58:46.773:INFO::main: Logging initialized @371ms to org.seleniumhq.jetty9.util.log.StdErrLog
+15:58:47.041 INFO [SeleniumServer.boot] - Selenium Server is up and running on port 4444
+15:58:47.617 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "acceptSslCerts": true,
+  "browserName": "chrome",
+  "javascriptEnabled": true,
+  "marionette": true,
+  "name": "Test"
+}
+15:58:47.619 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.remote.server.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
